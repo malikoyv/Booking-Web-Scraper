@@ -1,0 +1,44 @@
+[
+    {
+        "URI": "https://www.booking.com/hotel/pl/110-hostel.html?label=gen173nr-1FCAEoggI46AdIM1gEaLYBiAEBmAExuAEXyAEM2AEB6AEB-AECiAIBqAIDuALtgIGwBsACAdICJDQ3MzNiMDBkLTdkZDEtNGUwMS1iZmY0LWE4Mzk3ZDBkMmZmMtgCBeACAQ&aid=304142&ucfs=1&arphpl=1&checkin=2024-03-30&checkout=2024-03-31&dest_id=170&dest_type=country&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=17b589a541a703fd&srepoch=1711395276&all_sr_blocks=1126966402_385349918_1_0_0&highlighted_blocks=1126966402_385349918_1_0_0&matching_block_id=1126966402_385349918_1_0_0&sr_pri_blocks=1126966402_385349918_1_0_0__15120&from=searchresults#hotelTmpl",
+        "title": "110 Hostel",
+        "price": 151.0,
+        "rating": "8.7",
+        "quantity": "40 reviews"
+    },
+    {
+        "URI": "https://www.booking.com/hotel/pl/villa-t.html?label=gen173nr-1FCAEoggI46AdIM1gEaLYBiAEBmAExuAEXyAEM2AEB6AEB-AECiAIBqAIDuALtgIGwBsACAdICJDQ3MzNiMDBkLTdkZDEtNGUwMS1iZmY0LWE4Mzk3ZDBkMmZmMtgCBeACAQ&aid=304142&ucfs=1&arphpl=1&checkin=2024-03-30&checkout=2024-03-31&dest_id=170&dest_type=country&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=17b589a541a703fd&srepoch=1711395276&all_sr_blocks=818747501_344553318_1_10_0&highlighted_blocks=818747501_344553318_1_10_0&matching_block_id=818747501_344553318_1_10_0&sr_pri_blocks=818747501_344553318_1_10_0__76952&from_sustainable_property_sr=1&from=searchresults#hotelTmpl",
+        "title": "Villa T Apartments & SPA",
+        "price": 770.0,
+        "rating": "9.6",
+        "quantity": "470 reviews"
+    },
+    {
+        "URI": "https://www.booking.com/hotel/pl/zamek-w-baranowie-sandomierskim.html?label=gen173nr-1FCAEoggI46AdIM1gEaLYBiAEBmAExuAEXyAEM2AEB6AEB-AECiAIBqAIDuALtgIGwBsACAdICJDQ3MzNiMDBkLTdkZDEtNGUwMS1iZmY0LWE4Mzk3ZDBkMmZmMtgCBeACAQ&aid=304142&ucfs=1&arphpl=1&checkin=2024-03-30&checkout=2024-03-31&dest_id=170&dest_type=country&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=17b589a541a703fd&srepoch=1711395276&all_sr_blocks=37988907_147033613_0_1_0&highlighted_blocks=37988907_147033613_0_1_0&matching_block_id=37988907_147033613_0_1_0&sr_pri_blocks=37988907_147033613_0_1_0__40000&from=searchresults#hotelTmpl",
+        "title": "Zamek w Baranowie Sandomierskim",
+        "price": 400.0,
+        "rating": "8.9",
+        "quantity": "852 reviews"
+    },
+    {
+        "URI": "https://www.booking.com/hotel/pl/cottonina-hotel-and-mineral-spa-resort.html?label=gen173nr-1FCAEoggI46AdIM1gEaLYBiAEBmAExuAEXyAEM2AEB6AEB-AECiAIBqAIDuALtgIGwBsACAdICJDQ3MzNiMDBkLTdkZDEtNGUwMS1iZmY0LWE4Mzk3ZDBkMmZmMtgCBeACAQ&aid=304142&ucfs=1&arphpl=1&checkin=2024-03-30&checkout=2024-03-31&dest_id=170&dest_type=country&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=17b589a541a703fd&srepoch=1711395276&all_sr_blocks=47054701_223194501_0_17_0&highlighted_blocks=47054701_223194501_0_17_0&matching_block_id=47054701_223194501_0_17_0&sr_pri_blocks=47054701_223194501_0_17_0__86500&from=searchresults#hotelTmpl",
+        "title": "Cottonina Hotel & Mineral SPA Resort",
+        "price": 865.0,
+        "rating": "8.8",
+        "quantity": "2,645 reviews"
+    },
+    {
+        "URI": "https://www.booking.com/hotel/pl/piotrkowska-art.html?label=gen173nr-1FCAEoggI46AdIM1gEaLYBiAEBmAExuAEXyAEM2AEB6AEB-AECiAIBqAIDuALtgIGwBsACAdICJDQ3MzNiMDBkLTdkZDEtNGUwMS1iZmY0LWE4Mzk3ZDBkMmZmMtgCBeACAQ&aid=304142&ucfs=1&arphpl=1&checkin=2024-03-30&checkout=2024-03-31&dest_id=170&dest_type=country&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=17b589a541a703fd&srepoch=1711395276&all_sr_blocks=499060701_268921173_6_0_0&highlighted_blocks=499060701_268921173_6_0_0&matching_block_id=499060701_268921173_6_0_0&sr_pri_blocks=499060701_268921173_6_0_0__38000&from=searchresults#hotelTmpl",
+        "title": "Piotrkowska Art",
+        "price": 380.0,
+        "rating": "6.9",
+        "quantity": "314 reviews"
+    },
+    {
+        "URI": "https://www.booking.com/hotel/pl/dom-wczasowy-sniezynka-szczyrk.html?label=gen173nr-1FCAEoggI46AdIM1gEaLYBiAEBmAExuAEXyAEM2AEB6AEB-AECiAIBqAIDuALtgIGwBsACAdICJDQ3MzNiMDBkLTdkZDEtNGUwMS1iZmY0LWE4Mzk3ZDBkMmZmMtgCBeACAQ&aid=304142&ucfs=1&arphpl=1&checkin=2024-03-30&checkout=2024-03-31&dest_id=170&dest_type=country&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=17b589a541a703fd&srepoch=1711395276&all_sr_blocks=37580802_363942628_0_1_0&highlighted_blocks=37580802_363942628_0_1_0&matching_block_id=37580802_363942628_0_1_0&sr_pri_blocks=37580802_363942628_0_1_0__51000&from=searchresults#hotelTmpl",
+        "title": "\u015anie\u017cynka",
+        "price": 510.0,
+        "rating": "9.2",
+        "quantity": "1,260 reviews"
+    }
+]

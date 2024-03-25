@@ -1,8 +1,29 @@
 from bs4 import BeautifulSoup
 import requests
+import csv
+import json
 
 # def parseListing(listing_url):
-    
+def saveToCSV(hotel_info):
+    fieldnames = ['URI', 'title', 'price', 'rating', 'quantity']
+    with open('hotel_data.csv', mode='w', newline='', encoding="utf-8") as csv_file:
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+        
+        # Write the header row
+        writer.writeheader()
+
+        # Write each hotel's information row by row
+        for hotel in hotel_info:
+            # Converting price to float for formatting
+            hotel['price'] = float(hotel['price'])
+            writer.writerow(hotel)
+            
+    print('Data has been saved to hotel_data.csv')
+
+def saveToJson(hotel_info):
+    with open("hotel_data.json", "w") as json_file: 
+        json.dump(hotel_info, json_file, indent=4)
+    print('Data has been saved to hotel_data.json')
 
 def main():
     # Replace checkin/checkout dates if you wish
@@ -44,7 +65,7 @@ def main():
         title_el = soup.find('h2', class_='d2fee87262 pp-header__title')
         title = title_el.getText(strip=True) if title_el else 'Title not found'
         price_el = soup.find('span', class_= 'prco-valign-middle-helper')
-        price = price_el.getText(strip=True).replace('\xa0', ' ') if price_el else 'Price not found'
+        price = price_el.getText(strip=True).replace('\xa0zł', ' ') if price_el else 'Price not found'
         try:
             rating_el = soup.find('div', class_='ac4a7896c7')
             rating = rating_el.getText(strip=True).replace('Scored ', '') if rating_el else 'Rating not found'
@@ -62,7 +83,8 @@ def main():
         }
         hotels.append(hotel)
 
-    for i in hotels:
-        print(i)
+    saveToCSV(hotels)
+    saveToJson(hotels)
+
 
 main()

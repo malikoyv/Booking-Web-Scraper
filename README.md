@@ -22,7 +22,7 @@ Change the link of the booking website if desired in the `URI` variable in `main
 - Developed by [Yehor Malikov](https://github.com/malikoyv)
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/malikoyv/Booking-Web-Scraper/blob/main/LICENSE).
 
 ### Additional
 - **How to Contribute to the Project:** To contribute to the project, fork the repository, make your changes in a new branch, and submit a pull request to have your modifications reviewed and merged.

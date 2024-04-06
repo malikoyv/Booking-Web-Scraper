@@ -17,6 +17,7 @@ Change the link of the booking website if desired in the `URI` variable in `main
 ## How to Use the Project
 1. Run the `main.py` script.
 2. The script will scrape hotel data from Booking.com based on the specified URI, check-in and check-out dates and save the information to CSV and JSON files (`hotel_data.csv` and `hotel_data.json`, respectively) in the project directory.
+   Examples of the done scraping you have in files hotel_data.json and hotel_data.csv. You can delete it, when you'll be scraping, it was just left for a preview.
 
 ## Credits
 - Developed by [Yehor Malikov](https://github.com/malikoyv)
